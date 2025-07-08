@@ -1,6 +1,8 @@
 
 # Whaleswap AI – AI-Powered Multi-Exchange Copy Trading Platform (Case Study)
 
+### https://whaleswap.ai/
+
 ## 📌 Overview
 
 **Whaleswap AI** is a next-generation fintech platform built to empower crypto investors with real-time AI-supported copy trading, portfolio management, and trader analytics. This project demonstrates how AI, real-time data processing, and secure trading infrastructure can be combined into a scalable, production-grade solution.
